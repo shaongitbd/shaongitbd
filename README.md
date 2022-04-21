@@ -27,9 +27,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaongitt&show_icons=true&locale=en&layout=compact" alt="shaongitt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaongitt&show_icons=true&locale=en" alt="shaongitt" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaongitt&show_icons=true&locale=en&theme=merko" alt="shaongitt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaongitt&" alt="shaongitt" /></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaongitt&show_icons=true&theme=merko)
+![Shaongitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaongitt&show_icons=true&theme=merko)
